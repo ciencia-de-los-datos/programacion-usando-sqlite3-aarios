@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQLite",
+            "database": "${workspaceFolder:programacion-usando-sqlite3-aarios}/tbl0.csv"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
