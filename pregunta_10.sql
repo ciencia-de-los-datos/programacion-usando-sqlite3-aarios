@@ -42,3 +42,6 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+SELECT *
+FROM tbl0
+WHERE tbl0.c02 >= 300;
